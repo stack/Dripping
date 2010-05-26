@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Dripping' target in the 'Dripping' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

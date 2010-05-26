@@ -1,0 +1,12 @@
+There was water dripping from my ceiling.
+
+I wanted to see if the rate was decelerating.
+
+I created this app to track the drips per minute a certain intervals.
+
+Just press space every time a drip occurs.  The sample size is 10 drips.
+
+Escape resets the counter.
+
+- Stephen H. Gerstacker <stephen@shortround.net>
+
